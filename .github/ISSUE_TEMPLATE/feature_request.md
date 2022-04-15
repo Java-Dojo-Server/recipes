@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: Sugira uma feature
+about: Sugira uma ideia para o projeto
+title: '[FEAT-REQUEST] - _Dê uma descrição à sua issue...'
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Sua sugestão é relacionada à um problema ? Por favor, descreva.**
+Uma clara e concisa descrição do que é o problema. Ex. É ruim quando uso tal funcionalidade e acontece x [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Descreva a solução que você gostaria**
+Uma clara e concisa descrição do que você gostaria que acontecesse.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Descreva alternativas que você já considerou**
+Uma clara e concisa descrição de alguma solução que você tenha pensado.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Informações adicionais**
+Adicione qualquer outra informação que você achar pertinent.
