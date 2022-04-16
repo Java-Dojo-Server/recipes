@@ -14,18 +14,21 @@
 
 ### Desenvolvendo
 
-- git clone <b>https://github.com/Java-Dojo-Server/recipes.git</b>
+- vá até a página inicial do repositório
+- crie um fork do repositório, clicando em <b>Fork</b> no canto direito
+- clone o repositório forkeado em sua conta
 - git checkout -b <b>feature/nome_feature</b>
-- trabalha na sua Issue e commite suas alterações
-- suba sua branch para o repositório remoto
+- trabalhe na sua Issue e commite suas alterações
+- suba sua branch para o repositório forkeado remoto
 - git push origin <b>feature/nome_feature</b>
 
 ### Abrindo um Pull Request
 
-- vá até a página inicial do repositório
+- vá até a página inicial do repositório forkeado
 - clique em <b>Compare & pull request</b>
-- ná página de abertura do pull request certifique que a branch target é a master
-- no topo você deve selecionar <b>base: master</b>
+- ná página de abertura do pull request certifique-se que:
+- base repository: Java-Dojo-Server/recipes e base: master
+- head repository: seu repo forakeado e compare: feature/nome_feature
 - preencha os passos do template gerado e clique em <b>Create pull request</b>
 
 Happy Coding!
