@@ -2,6 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Pull Requests][pr-shield]][pr-url]
 [![MIT License][license-shield]][license-url]
 
 
@@ -189,5 +190,7 @@ Joins us - [Discord Invite](https://discord.gg/7Ww5QfqD)
 [stars-url]: https://github.com/Java-Dojo-Server/recipes/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Java-Dojo-Server/recipes.svg?style=for-the-badge
 [issues-url]: https://github.com/Java-Dojo-Server/recipes/issues
+[pr-shield]: https://img.shields.io/github/issues-pr/Java-Dojo-Server/recipes.svg?style=for-the-badge
+[pr-url]: https://github.com/Java-Dojo-Server/recipes/pulls
 [license-shield]: https://img.shields.io/github/license/Java-Dojo-Server/recipes.svg?style=for-the-badge
 [license-url]: https://github.com/Java-Dojo-Server/recipes/blob/master/LICENSE.md
